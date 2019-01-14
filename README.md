@@ -1,21 +1,7 @@
-# vue-01
+# Personal-Blog
 
-> A Vue.js project
+1. 使用Vue CLI 架設環境，並用 Vue Router 來實現前端路由
+2. 利用 axios 獲取 JSONPlaceholder 的資料
+3. 藉由 iView 的組件來排版
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
